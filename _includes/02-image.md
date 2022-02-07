@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A comic page I drew](https://RunawayWolves.thecomicseries.com/files/page_16.png)
